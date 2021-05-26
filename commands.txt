@@ -1,0 +1,10 @@
+node -v
+npm -v
+PS C:\work> npx create-react-app frontend
+C:\work> cd .\frontend\
+PS C:\work\frontend> ls
+PS C:\work\frontend> npm run test -> çalışmıyor
+PS C:\work\frontend> npm run build
+PS C:\work\frontend> npm run start
+Ctrl+C Y
+
