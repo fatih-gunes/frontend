@@ -12,3 +12,10 @@ CMD ["npm", "run", "start"]
 
 # $ docker build -f Dockerfile.dev .
 # delete the "node_modules" directory and rebuild. otherwise it is very large.
+# $ docker run -p 3000:3000 <image>
+# (then browse to localhost:3000)
+# docker ps
+# docker stop <container id>
+
+
+
