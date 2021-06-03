@@ -16,6 +16,8 @@ CMD ["npm", "run", "start"]
 # (then browse to localhost:3000)
 # docker ps
 # docker stop <container id>
+# docker run -it <image> npm run test
+# docker exec -it <image> sh
 
 
 
